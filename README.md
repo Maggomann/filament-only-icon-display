@@ -1,7 +1,7 @@
 [![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/Maggomann/filament-only-icon-display/run-tests.yml?branch%3Amain&label=tests)](https://github.com/Maggomann/filament-only-icon-display/actions?query=workflow%3Arun-tests+branch%3Amain) [![GitHub license](https://img.shields.io/github/license/Maggomann/filament-only-icon-display)](https://github.com/Maggomann/filament-only-icon-display/blob/main/LICENSE.md) [![Total Downloads](https://img.shields.io/packagist/dt/maggomann/filament-only-icon-display.svg?style=flat-square)](https://packagist.org/packages/maggomann/filament-only-icon-display)
 ---
 
-# Filament model translator package for filament v2.x
+# Filament only icon display package for filament v2.x
 This package is tailored for [Filament Admin Panel v2.x](https://filamentphp.com/docs/2.x/admin/installation).
 
 Make sure you have installed the admin panel before you continue with the installation. You can check the [documentation here](https://filamentphp.com/docs/2.x/admin/installation)
