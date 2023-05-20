@@ -6,7 +6,7 @@ This package is tailored for [Filament Admin Panel v2.x](https://filamentphp.com
 
 Make sure you have installed the admin panel before you continue with the installation. You can check the [documentation here](https://filamentphp.com/docs/2.x/admin/installation)
 
-The package provides the `HasOnlyIcon` trait for [Filament Admin Panel v2.x](https://filamentphp.com/docs/2.x/admin/installation). With this trait it is possible to display the table actions buttons only as icon or optionally only as icon including tooltip. The package currently provides the table action buttons (`CreateAction`, `DeleteAction`, `EditAction` and `ViewAction`) that already contain the trait. Own table action buttons can be extended with the `HasOnlyIcon` €trait, so that the methods are then available.
+The package provides the `HasOnlyIcon` trait for [Filament Admin Panel v2.x](https://filamentphp.com/docs/2.x/admin/installation). With this trait it is possible to display the table actions buttons only as icon or optionally only as icon including tooltip. The package currently provides the table action buttons (`CreateAction`, `DeleteAction`, `EditAction` and `ViewAction`) that already contain the trait. Own table action buttons can be extended with the `HasOnlyIcon` trait, so that the methods are then available.
 
 ![only_icon](./docs/assets/only_icon.png)
 
